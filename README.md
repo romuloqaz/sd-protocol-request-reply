@@ -1,5 +1,3 @@
-# sd-protocol-request-reply
-
 # Para iniciar o projeto:
 
 
