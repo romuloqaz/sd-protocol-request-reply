@@ -1,0 +1,15 @@
+
+l
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(“ùıéûÿÿÿÿ8œùåÿˆ/
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8œùåÿˆ/
+R
+java:S1854"5Remove this useless assignment to local variable "c".(Ä’€™8œùåÿˆ/
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8œùåÿˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šª¥¢øÿÿÿÿ8œùåÿˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹ÜşŒúÿÿÿÿ8œùåÿˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ö…¸ûÿÿÿÿ8œùåÿˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢œÒ³ûÿÿÿÿ8œùåÿˆ/
+C
+java:S1481"&Remove this unused "c" local variable.(Ä’€™8œùåÿˆ/
